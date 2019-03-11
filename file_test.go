@@ -1,3 +1,5 @@
+// go_reopen Copyright © 2019 Chris Wojno. All rights reserved.
+
 package go_reopen
 
 import (

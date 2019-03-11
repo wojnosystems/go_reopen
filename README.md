@@ -30,3 +30,13 @@ func main() {
     _ = f.Close()
 }
 ```
+
+# Copyright
+
+Copyright © 2019 Chris Wojno. All rights reserved.
+
+No Warranties. Use this software at your own risk.
+
+# License
+
+Attribution 4.0 International https://creativecommons.org/licenses/by/4.0/
